@@ -1,0 +1,4 @@
+requests
+wave
+numpy
+grpcio-tools
